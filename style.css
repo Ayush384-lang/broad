@@ -1,0 +1,93 @@
+.container
+{
+    max-width: 1200px;
+}
+.bg-primary
+{
+    background: #00BBD4 !important;
+    color: #ccc
+}
+.navbar-brand
+{
+    color: #00BBD4 ;
+    width: 300px;
+}
+.navbar-expand-lg .navbar-nav .nav-link
+{
+    color: #fff;
+}
+.mySwiper img
+{
+   border-radius: 50%;
+}
+.nnn 
+{
+    max-width: 200px;
+    width: 100%;
+}
+.pbox
+{
+   position: relative;
+   overflow: hidden;
+   width: 100%;
+   height: 100%;
+}
+.pbox-c
+{
+    position: absolute;
+    left: 0;
+    bottom: -50px;
+    max-width: 100%;
+    text-align: center;
+    background: #fff;
+    transition: 0.9s;
+}
+.pbox:hover .pbox-c{
+bottom: 0;
+}
+.pbox img{
+    transition: 0.9s;
+    width: 100%;
+}
+.pbox:hover img{
+    transform: scale(1.1);
+}
+ul{
+    margin: 0;
+    padding: 0;
+    list-style:none;
+}
+
+a
+{
+    text-decoration: none;
+}
+li{
+    list-style: none;
+}
+.blue{
+    background-color: blue;
+}
+
+.a{
+    height: 200px;
+    width: 200px;
+}
+.div{
+    box-shadow: 0 0 20px 20px red;
+}
+.hh{
+    height: 300px;
+    overflow: auto;
+}
+
+.re-img{
+    height: 200px;
+
+
+}
+.re-img img{
+    height: 100%;
+    width: 100%;
+    border-radius: 14px;
+}
